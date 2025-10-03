@@ -9,8 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # 推送代码需要
-      releases: write        # 创建 Release 需要
+      contents: write
 
     steps:
       - name: Checkout
