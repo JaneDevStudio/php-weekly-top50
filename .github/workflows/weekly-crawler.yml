@@ -1,4 +1,4 @@
-name: Weekly PHP Top10
+name: Weekly PHP Top50
 
 on:
   schedule:
@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: composer install --no-dev
 
-      - name: Crawl & generate top10
+      - name: Crawl & generate top50
         run: php src/crawler.php
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -41,8 +41,8 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: v$(date +%Y%m%d)
-          name: PHP Top10 Week $(date +%W)
-          body_path: releases/top10-$(date +%Y-W%W).md
-          files: releases/top10-$(date +%Y-W%W).md
+          name: PHP Top50 Week $(date +%V)
+          body_path: releases/top50-$(date +%Y)-W$(date +%V).md
+          files: releases/top50-$(date +%Y)-W$(date +%V).md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
