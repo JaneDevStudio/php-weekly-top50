@@ -1,13 +1,13 @@
 <?php return array(
     'root' => array(
-        'name' => 'usr/php-hot-repo-top10',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'name' => 'usr/php-hot-repo-top50',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '15db5a792a30addcd3c99d806f1bb9ad2839ce91',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'dev' => true,
+        'dev' => false,
     ),
     'versions' => array(
         'guzzlehttp/guzzle' => array(
@@ -92,18 +92,18 @@
             'dev_requirement' => false,
         ),
         'symfony/deprecation-contracts' => array(
-            'pretty_version' => 'v3.6.0',
-            'version' => '3.6.0.0',
-            'reference' => '63afe740e99a13ba87ec199bb07bbdee937a5b62',
+            'pretty_version' => 'v3.0.2',
+            'version' => '3.0.2.0',
+            'reference' => '26954b3d62a6c5fd0ea8a2a00c0353a14978d05c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../symfony/deprecation-contracts',
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'usr/php-hot-repo-top10' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+        'usr/php-hot-repo-top50' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '15db5a792a30addcd3c99d806f1bb9ad2839ce91',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
