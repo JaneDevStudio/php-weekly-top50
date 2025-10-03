@@ -1,0 +1,11 @@
+{
+    "name": "usr/php-hot-repo-top50",
+    "description": "Weekly top50 PHP repos on GitHub",
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {"Phptop50\\": "src/"}
+    }
+}
