@@ -37,12 +37,18 @@ jobs:
             git commit -m "Weekly update $(date +%Y%m%d)"
           git push
 
+      - name: Set date variables
+        run: |
+          echo "YEAR=$(date +%Y)" >> $GITHUB_ENV
+          echo "WEEK=$(date +%V)" >> $GITHUB_ENV
+          echo "DATE=$(date +%Y%m%d)" >> $GITHUB_ENV
+
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v$(date +%Y%m%d)
-          name: PHP Top50 Week $(date +%V)
-          body_path: releases/top50-$(date +%Y)-W$(date +%V).md
-          files: releases/top50-$(date +%Y)-W$(date +%V).md
+          tag_name: v${{ env.DATE }}
+          name: PHP Top50 Week ${{ env.WEEK }}
+          body_path: releases/top50-${{ env.YEAR }}-W${{ env.WEEK }}.md
+          files: releases/top50-${{ env.YEAR }}-W${{ env.WEEK }}.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
