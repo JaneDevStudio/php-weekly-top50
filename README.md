@@ -10,3 +10,4 @@
 - 第45期 (2025-11-03) [HTML](docs/top50-2025-W45.html) · [MD](releases/top50-2025-W45.md)
 - 第46期 (2025-11-10) [HTML](docs/top50-2025-W46.html) · [MD](releases/top50-2025-W46.md)
 - 第47期 (2025-11-17) [HTML](docs/top50-2025-W47.html) · [MD](releases/top50-2025-W47.md)
+- 第48期 (2025-11-24) [HTML](docs/top50-2025-W48.html) · [MD](releases/top50-2025-W48.md)
