@@ -25,3 +25,4 @@
 - 第08期 (2026-02-16) [HTML](docs/top50-2026-W08.html) · [MD](releases/top50-2026-W08.md)
 - 第09期 (2026-02-23) [HTML](docs/top50-2026-W09.html) · [MD](releases/top50-2026-W09.md)
 - 第10期 (2026-03-02) [HTML](docs/top50-2026-W10.html) · [MD](releases/top50-2026-W10.md)
+- 第11期 (2026-03-09) [HTML](docs/top50-2026-W11.html) · [MD](releases/top50-2026-W11.md)
