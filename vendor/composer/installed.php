@@ -3,7 +3,7 @@
         'name' => 'usr/php-hot-repo-top50',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '5e1b5a4c4639ef851f882a05f8039daf769505c3',
+        'reference' => '6efdc9b8938c4f7d308b0d74a34a0c5d762fba92',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -103,7 +103,7 @@
         'usr/php-hot-repo-top50' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '5e1b5a4c4639ef851f882a05f8039daf769505c3',
+            'reference' => '6efdc9b8938c4f7d308b0d74a34a0c5d762fba92',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
