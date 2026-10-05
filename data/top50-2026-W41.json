@@ -1,0 +1,870 @@
+{
+    "year": "2026",
+    "week": "41",
+    "date": "2026-10-05",
+    "list": [
+        {
+            "rank": 1,
+            "name": "danielmiessler\/SecLists",
+            "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "star": 73939,
+            "fork": 25142,
+            "url": "https:\/\/github.com\/danielmiessler\/SecLists",
+            "topics": []
+        },
+        {
+            "rank": 2,
+            "name": "coollabsio\/coolify",
+            "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+            "star": 62601,
+            "fork": 5590,
+            "url": "https:\/\/github.com\/coollabsio\/coolify",
+            "topics": [
+                "coolify",
+                "databases",
+                "deployment",
+                "docker",
+                "docker-compose",
+                "inertiajs",
+                "laravel",
+                "mariadb",
+                "mysql",
+                "nextjs",
+                "nodejs",
+                "php",
+                "postgres",
+                "redis",
+                "self-hosted",
+                "self-hosting",
+                "server",
+                "static-site",
+                "svelte",
+                "svelte5"
+            ]
+        },
+        {
+            "rank": 3,
+            "name": "appwrite\/appwrite",
+            "desc": "Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more",
+            "star": 57569,
+            "fork": 5762,
+            "url": "https:\/\/github.com\/appwrite\/appwrite",
+            "topics": [
+                "android",
+                "appwrite",
+                "backend",
+                "backend-as-a-service",
+                "docker",
+                "firebase",
+                "flutter",
+                "hosting",
+                "ios",
+                "javascript",
+                "nextjs",
+                "react",
+                "react-native",
+                "reactnative",
+                "self-hosted",
+                "selfhosted",
+                "serverless",
+                "supabase",
+                "swift",
+                "web"
+            ]
+        },
+        {
+            "rank": 4,
+            "name": "nextcloud\/server",
+            "desc": "☁️ Nextcloud server, a safe home for all your data",
+            "star": 36995,
+            "fork": 5258,
+            "url": "https:\/\/github.com\/nextcloud\/server",
+            "topics": [
+                "cloud",
+                "collaboration",
+                "decentralized",
+                "design",
+                "distributed",
+                "enterprise",
+                "federation",
+                "file-sharing",
+                "free-software",
+                "hacktoberfest",
+                "javascript",
+                "nextcloud",
+                "open-source",
+                "opensource",
+                "owncloud",
+                "php",
+                "self-hosting",
+                "sharing",
+                "usability",
+                "ux"
+            ]
+        },
+        {
+            "rank": 5,
+            "name": "laravel\/framework",
+            "desc": "Laravel is a web application framework with expressive, elegant syntax.",
+            "star": 34950,
+            "fork": 12010,
+            "url": "https:\/\/github.com\/laravel\/framework",
+            "topics": [
+                "framework",
+                "laravel",
+                "php"
+            ]
+        },
+        {
+            "rank": 6,
+            "name": "filamentphp\/filament",
+            "desc": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
+            "star": 32194,
+            "fork": 4210,
+            "url": "https:\/\/github.com\/filamentphp\/filament",
+            "topics": [
+                "admin",
+                "alpine-js",
+                "builder",
+                "cms",
+                "filament",
+                "forms",
+                "laravel",
+                "laravel-admin-panel",
+                "livewire",
+                "tables",
+                "tailwind-css",
+                "tall-stack"
+            ]
+        },
+        {
+            "rank": 7,
+            "name": "symfony\/symfony",
+            "desc": "The Symfony PHP framework",
+            "star": 31171,
+            "fork": 9891,
+            "url": "https:\/\/github.com\/symfony\/symfony",
+            "topics": [
+                "bundle",
+                "framework",
+                "hacktoberfest",
+                "php",
+                "php-framework",
+                "symfony",
+                "symfony-bundle"
+            ]
+        },
+        {
+            "rank": 8,
+            "name": "blueimp\/jQuery-File-Upload",
+            "desc": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.",
+            "star": 30700,
+            "fork": 7721,
+            "url": "https:\/\/github.com\/blueimp\/jQuery-File-Upload",
+            "topics": []
+        },
+        {
+            "rank": 9,
+            "name": "composer\/composer",
+            "desc": "Dependency Manager for PHP",
+            "star": 29539,
+            "fork": 4844,
+            "url": "https:\/\/github.com\/composer\/composer",
+            "topics": [
+                "composer",
+                "dependency-manager",
+                "package-manager",
+                "packages",
+                "php"
+            ]
+        },
+        {
+            "rank": 10,
+            "name": "bagisto\/bagisto",
+            "desc": "Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs",
+            "star": 28209,
+            "fork": 3309,
+            "url": "https:\/\/github.com\/bagisto\/bagisto",
+            "topics": [
+                "b2b-ecommerce",
+                "blockchain-ecommerce",
+                "ecommerce",
+                "ecommerce-framework",
+                "ecommerce-platform",
+                "hacktoberfest",
+                "headless-commerce",
+                "laravel",
+                "laravel-application",
+                "laravel-ecommerce",
+                "laravel-package",
+                "multi-tenancy-plugin",
+                "multi-tenant",
+                "multi-vendor-ecommerce",
+                "multivendor-ecommerce",
+                "nft-marketplace",
+                "open-source",
+                "opensource-ecommerce",
+                "php",
+                "php-ecommerce"
+            ]
+        },
+        {
+            "rank": 11,
+            "name": "fzaninotto\/Faker",
+            "desc": "Faker is a PHP library that generates fake data for you",
+            "star": 26629,
+            "fork": 3571,
+            "url": "https:\/\/github.com\/fzaninotto\/Faker",
+            "topics": []
+        },
+        {
+            "rank": 12,
+            "name": "monicahq\/monica",
+            "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+            "star": 25425,
+            "fork": 2614,
+            "url": "https:\/\/github.com\/monicahq\/monica",
+            "topics": [
+                "crm",
+                "family",
+                "friends",
+                "hacktoberfest",
+                "laravel",
+                "php",
+                "prm",
+                "social"
+            ]
+        },
+        {
+            "rank": 13,
+            "name": "firefly-iii\/firefly-iii",
+            "desc": "Firefly III: a personal finances manager",
+            "star": 24822,
+            "fork": 2316,
+            "url": "https:\/\/github.com\/firefly-iii\/firefly-iii",
+            "topics": [
+                "accounting",
+                "budget",
+                "budgeting",
+                "budgets",
+                "cash-flow",
+                "cashflow",
+                "credit-card",
+                "docker",
+                "expenses",
+                "finance",
+                "finances",
+                "financial",
+                "linux",
+                "money",
+                "paycheck",
+                "personal-finance",
+                "php",
+                "php7"
+            ]
+        },
+        {
+            "rank": 14,
+            "name": "krayin\/laravel-crm",
+            "desc": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
+            "star": 23968,
+            "fork": 1651,
+            "url": "https:\/\/github.com\/krayin\/laravel-crm",
+            "topics": [
+                "cloud",
+                "cloudhosting",
+                "crm",
+                "crm-multi-tenant-saas",
+                "crm-platform",
+                "hacktoberfest",
+                "laravel",
+                "laravel-application",
+                "laravel-crm",
+                "laravel-framework",
+                "laravel-package",
+                "opensource",
+                "opensource-crm",
+                "opensource-crm-framework",
+                "php",
+                "vue",
+                "vuejs"
+            ]
+        },
+        {
+            "rank": 15,
+            "name": "livewire\/livewire",
+            "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+            "star": 23588,
+            "fork": 1754,
+            "url": "https:\/\/github.com\/livewire\/livewire",
+            "topics": []
+        },
+        {
+            "rank": 16,
+            "name": "guzzle\/guzzle",
+            "desc": "Guzzle, an extensible PHP HTTP client",
+            "star": 23451,
+            "fork": 2389,
+            "url": "https:\/\/github.com\/guzzle\/guzzle",
+            "topics": [
+                "curl",
+                "guzzle",
+                "http-client",
+                "httpclient",
+                "php",
+                "psr-7",
+                "requests",
+                "webservices"
+            ]
+        },
+        {
+            "rank": 17,
+            "name": "PHPMailer\/PHPMailer",
+            "desc": "The classic email sending library for PHP",
+            "star": 22303,
+            "fork": 9779,
+            "url": "https:\/\/github.com\/PHPMailer\/PHPMailer",
+            "topics": [
+                "attachment",
+                "email",
+                "hacktoberfest",
+                "php",
+                "php-library",
+                "phpmailer",
+                "smtp",
+                "tls-support",
+                "xoauth2"
+            ]
+        },
+        {
+            "rank": 18,
+            "name": "DesignPatternsPHP\/DesignPatternsPHP",
+            "desc": "Sample code for several design patterns in PHP 8.x",
+            "star": 22194,
+            "fork": 4488,
+            "url": "https:\/\/github.com\/DesignPatternsPHP\/DesignPatternsPHP",
+            "topics": [
+                "code-examples",
+                "design-pattern",
+                "design-patterns",
+                "designpatternsphp",
+                "modern-php",
+                "oop",
+                "php",
+                "php8",
+                "phpunit"
+            ]
+        },
+        {
+            "rank": 19,
+            "name": "matomo-org\/matomo",
+            "desc": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https:\/\/matomo.org\/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️  – Pull Requests welcome! ",
+            "star": 21923,
+            "fork": 2902,
+            "url": "https:\/\/github.com\/matomo-org\/matomo",
+            "topics": [
+                "analytics",
+                "growth",
+                "hacktoberfest",
+                "intranet",
+                "log",
+                "marketing",
+                "matomo",
+                "mobile",
+                "mysql",
+                "php",
+                "piwik",
+                "privacy",
+                "security",
+                "web-analytics",
+                "website"
+            ]
+        },
+        {
+            "rank": 20,
+            "name": "WordPress\/WordPress",
+            "desc": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https:\/\/github.com\/WordPress\/wordpress-develop and patches to https:\/\/core.trac.wordpress.org\/ instead.",
+            "star": 21449,
+            "fork": 12975,
+            "url": "https:\/\/github.com\/WordPress\/WordPress",
+            "topics": []
+        },
+        {
+            "rank": 21,
+            "name": "Seldaek\/monolog",
+            "desc": "Sends your logs to files, sockets, inboxes, databases and various web services",
+            "star": 21402,
+            "fork": 1913,
+            "url": "https:\/\/github.com\/Seldaek\/monolog",
+            "topics": [
+                "hacktoberfest",
+                "logger",
+                "logging",
+                "php",
+                "psr-3"
+            ]
+        },
+        {
+            "rank": 22,
+            "name": "sebastianbergmann\/phpunit",
+            "desc": "The PHP Unit Testing framework.",
+            "star": 20062,
+            "fork": 2212,
+            "url": "https:\/\/github.com\/sebastianbergmann\/phpunit",
+            "topics": [
+                "php",
+                "phpunit",
+                "testing-tools"
+            ]
+        },
+        {
+            "rank": 23,
+            "name": "fruitcake\/laravel-debugbar",
+            "desc": "Debugbar for Laravel (Integrates PHP Debug Bar)",
+            "star": 19291,
+            "fork": 1613,
+            "url": "https:\/\/github.com\/fruitcake\/laravel-debugbar",
+            "topics": [
+                "debugbar",
+                "developer-tool",
+                "laravel",
+                "profiler",
+                "toolbar"
+            ]
+        },
+        {
+            "rank": 24,
+            "name": "BookStackApp\/BookStack",
+            "desc": "NOW MANAGED ON CODEBERG",
+            "star": 19076,
+            "fork": 2427,
+            "url": "https:\/\/github.com\/BookStackApp\/BookStack",
+            "topics": [
+                "bookstack",
+                "documentation",
+                "laravel",
+                "php",
+                "selfhosted",
+                "wiki"
+            ]
+        },
+        {
+            "rank": 25,
+            "name": "easychen\/howto-make-more-money",
+            "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+            "star": 18663,
+            "fork": 1842,
+            "url": "https:\/\/github.com\/easychen\/howto-make-more-money",
+            "topics": []
+        },
+        {
+            "rank": 26,
+            "name": "bcit-ci\/CodeIgniter",
+            "desc": "Open Source PHP Framework (originally from EllisLab)",
+            "star": 18155,
+            "fork": 7533,
+            "url": "https:\/\/github.com\/bcit-ci\/CodeIgniter",
+            "topics": [
+                "php",
+                "php-framework",
+                "php7",
+                "php8"
+            ]
+        },
+        {
+            "rank": 27,
+            "name": "nikic\/PHP-Parser",
+            "desc": "A PHP parser written in PHP",
+            "star": 17469,
+            "fork": 1136,
+            "url": "https:\/\/github.com\/nikic\/PHP-Parser",
+            "topics": [
+                "ast",
+                "parser",
+                "php",
+                "static-analysis"
+            ]
+        },
+        {
+            "rank": 28,
+            "name": "koel\/koel",
+            "desc": "Music streaming solution that works.",
+            "star": 17270,
+            "fork": 2111,
+            "url": "https:\/\/github.com\/koel\/koel",
+            "topics": [
+                "audio",
+                "hacktoberfest",
+                "laravel",
+                "music",
+                "music-player",
+                "streaming",
+                "vue"
+            ]
+        },
+        {
+            "rank": 29,
+            "name": "easychen\/opc-methodology",
+            "desc": "《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。",
+            "star": 16835,
+            "fork": 1902,
+            "url": "https:\/\/github.com\/easychen\/opc-methodology",
+            "topics": []
+        },
+        {
+            "rank": 30,
+            "name": "briannesbitt\/Carbon",
+            "desc": "A simple PHP API extension for DateTime.",
+            "star": 16594,
+            "fork": 1285,
+            "url": "https:\/\/github.com\/briannesbitt\/Carbon",
+            "topics": []
+        },
+        {
+            "rank": 31,
+            "name": "flarum\/flarum",
+            "desc": "Simple forum software for building great communities.",
+            "star": 16409,
+            "fork": 1666,
+            "url": "https:\/\/github.com\/flarum\/flarum",
+            "topics": [
+                "flarum",
+                "forum",
+                "laravel",
+                "php"
+            ]
+        },
+        {
+            "rank": 32,
+            "name": "FreshRSS\/FreshRSS",
+            "desc": "A free, self-hostable news aggregator…",
+            "star": 16231,
+            "fork": 1291,
+            "url": "https:\/\/github.com\/FreshRSS\/FreshRSS",
+            "topics": [
+                "feed",
+                "freshrss",
+                "news-aggregator",
+                "php",
+                "rss",
+                "rss-aggregator",
+                "rss-reader",
+                "self-hosted",
+                "websub"
+            ]
+        },
+        {
+            "rank": 33,
+            "name": "getgrav\/grav",
+            "desc": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony",
+            "star": 15679,
+            "fork": 1424,
+            "url": "https:\/\/github.com\/getgrav\/grav",
+            "topics": [
+                "cms",
+                "content",
+                "content-management",
+                "doctrine",
+                "flat-file",
+                "grav",
+                "markdown",
+                "php",
+                "php7",
+                "symfony",
+                "twig",
+                "website",
+                "website-builder",
+                "website-generation",
+                "yaml"
+            ]
+        },
+        {
+            "rank": 34,
+            "name": "cachethq\/cachet",
+            "desc": "🚦 Cachet, the open source, self-hosted status page system.",
+            "star": 15258,
+            "fork": 1629,
+            "url": "https:\/\/github.com\/cachethq\/cachet",
+            "topics": [
+                "cachet",
+                "laravel",
+                "php",
+                "self-hosted",
+                "selfhosted",
+                "status-page",
+                "statuspages"
+            ]
+        },
+        {
+            "rank": 35,
+            "name": "erusev\/parsedown",
+            "desc": "Better Markdown Parser in PHP",
+            "star": 15053,
+            "fork": 1133,
+            "url": "https:\/\/github.com\/erusev\/parsedown",
+            "topics": [
+                "markdown",
+                "markdown-parser",
+                "parser",
+                "php"
+            ]
+        },
+        {
+            "rank": 36,
+            "name": "grokability\/snipe-it",
+            "desc": "A free open source IT asset\/license management system",
+            "star": 15005,
+            "fork": 4009,
+            "url": "https:\/\/github.com\/grokability\/snipe-it",
+            "topics": [
+                "asset-management",
+                "asset-manager",
+                "assets-management",
+                "itam",
+                "license-management"
+            ]
+        },
+        {
+            "rank": 37,
+            "name": "barryvdh\/laravel-ide-helper",
+            "desc": "IDE Helper for Laravel",
+            "star": 14970,
+            "fork": 1195,
+            "url": "https:\/\/github.com\/barryvdh\/laravel-ide-helper",
+            "topics": [
+                "autocompletion",
+                "hacktoberfest",
+                "laravel"
+            ]
+        },
+        {
+            "rank": 38,
+            "name": "Qloapps\/QloApps",
+            "desc": "QloApps is a Free and Open-source hotel management and reservation system to take a hotel business online. QloApps offers a Property Management System (PMS), a Booking Engine, and an attractive Hotel Website. Elevate hotel operations with QloApps to streamline processes and provide an enhanced experience for both hoteliers and guests.",
+            "star": 14407,
+            "fork": 815,
+            "url": "https:\/\/github.com\/Qloapps\/QloApps",
+            "topics": [
+                "booking-engine",
+                "booking-website",
+                "central-management",
+                "central-reservation-system",
+                "cms",
+                "desk-booking",
+                "hotel-booking-app",
+                "hotel-booking-website",
+                "hotel-management-system",
+                "hotel-reservation-system",
+                "hotel-website",
+                "hotelcommerce",
+                "online-booking-management",
+                "pms",
+                "property-management",
+                "property-management-software",
+                "property-management-system",
+                "qloapps",
+                "software",
+                "staff-management"
+            ]
+        },
+        {
+            "rank": 39,
+            "name": "Intervention\/image",
+            "desc": "PHP Image Processing",
+            "star": 14376,
+            "fork": 1499,
+            "url": "https:\/\/github.com\/Intervention\/image",
+            "topics": [
+                "gd",
+                "image",
+                "imagick",
+                "intervention",
+                "php"
+            ]
+        },
+        {
+            "rank": 40,
+            "name": "yiisoft\/yii2",
+            "desc": "Yii 2: The Fast, Secure and Professional PHP Framework",
+            "star": 14285,
+            "fork": 6756,
+            "url": "https:\/\/github.com\/yiisoft\/yii2",
+            "topics": [
+                "framework",
+                "hacktoberfest",
+                "php",
+                "php-framework",
+                "yii",
+                "yii2"
+            ]
+        },
+        {
+            "rank": 41,
+            "name": "phpstan\/phpstan",
+            "desc": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+            "star": 14121,
+            "fork": 960,
+            "url": "https:\/\/github.com\/phpstan\/phpstan",
+            "topics": [
+                "php",
+                "php7",
+                "phpstan",
+                "static-analysis",
+                "static-analyzer",
+                "static-code-analysis",
+                "testing"
+            ]
+        },
+        {
+            "rank": 42,
+            "name": "PHPOffice\/PhpSpreadsheet",
+            "desc": "A pure PHP library for reading and writing spreadsheet files",
+            "star": 13995,
+            "fork": 3627,
+            "url": "https:\/\/github.com\/PHPOffice\/PhpSpreadsheet",
+            "topics": [
+                "excel",
+                "gnumeric",
+                "hacktoberfest",
+                "libreoffice",
+                "msexcel",
+                "ods",
+                "office",
+                "php",
+                "phpexcel",
+                "spreadsheet",
+                "sylk",
+                "xls",
+                "xlsx"
+            ]
+        },
+        {
+            "rank": 43,
+            "name": "digininja\/DVWA",
+            "desc": "Damn Vulnerable Web Application (DVWA)",
+            "star": 13770,
+            "fork": 5166,
+            "url": "https:\/\/github.com\/digininja\/DVWA",
+            "topics": [
+                "dvwa",
+                "hacking",
+                "infosec",
+                "php",
+                "security",
+                "sql-injection",
+                "training"
+            ]
+        },
+        {
+            "rank": 44,
+            "name": "thephpleague\/flysystem",
+            "desc": "Abstraction for local and remote filesystems",
+            "star": 13588,
+            "fork": 863,
+            "url": "https:\/\/github.com\/thephpleague\/flysystem",
+            "topics": [
+                "filesystem",
+                "filesystem-library",
+                "php",
+                "thephpleague"
+            ]
+        },
+        {
+            "rank": 45,
+            "name": "PHP-CS-Fixer\/PHP-CS-Fixer",
+            "desc": "A tool to automatically fix PHP Coding Standards issues",
+            "star": 13559,
+            "fork": 1649,
+            "url": "https:\/\/github.com\/PHP-CS-Fixer\/PHP-CS-Fixer",
+            "topics": [
+                "code-standards",
+                "code-style",
+                "php",
+                "static-analysis"
+            ]
+        },
+        {
+            "rank": 46,
+            "name": "vlucas\/phpdotenv",
+            "desc": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+            "star": 13548,
+            "fork": 666,
+            "url": "https:\/\/github.com\/vlucas\/phpdotenv",
+            "topics": [
+                "configuration",
+                "dotenv",
+                "environment",
+                "environment-variables",
+                "hacktoberfest",
+                "php"
+            ]
+        },
+        {
+            "rank": 47,
+            "name": "roots\/sage",
+            "desc": "WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support",
+            "star": 13284,
+            "fork": 2996,
+            "url": "https:\/\/github.com\/roots\/sage",
+            "topics": [
+                "acorn",
+                "blade",
+                "laravel",
+                "php",
+                "sage",
+                "tailwindcss",
+                "wordpress",
+                "wordpress-laravel",
+                "wordpress-starter-theme",
+                "wordpress-theme"
+            ]
+        },
+        {
+            "rank": 48,
+            "name": "filp\/whoops",
+            "desc": "PHP errors for cool kids ",
+            "star": 13232,
+            "fork": 602,
+            "url": "https:\/\/github.com\/filp\/whoops",
+            "topics": [
+                "error-handling",
+                "errors",
+                "php",
+                "php-errors",
+                "ui",
+                "whoops"
+            ]
+        },
+        {
+            "rank": 49,
+            "name": "wallabag\/wallabag",
+            "desc": "wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.",
+            "star": 12995,
+            "fork": 896,
+            "url": "https:\/\/github.com\/wallabag\/wallabag",
+            "topics": [
+                "hacktoberfest",
+                "php",
+                "read-it-later",
+                "self-hosted",
+                "symfony",
+                "symfony-application",
+                "wallabag"
+            ]
+        },
+        {
+            "rank": 50,
+            "name": "spatie\/laravel-permission",
+            "desc": "Associate users with roles and permissions",
+            "star": 12970,
+            "fork": 1815,
+            "url": "https:\/\/github.com\/spatie\/laravel-permission",
+            "topics": [
+                "laravel",
+                "permission",
+                "php",
+                "secure"
+            ]
+        }
+    ]
+}
