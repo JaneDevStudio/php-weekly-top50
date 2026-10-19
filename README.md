@@ -57,3 +57,4 @@
 - 第40期 (2026-09-28) [HTML](docs/top50-2026-W40.html) · [MD](releases/top50-2026-W40.md)
 - 第41期 (2026-10-05) [HTML](docs/top50-2026-W41.html) · [MD](releases/top50-2026-W41.md)
 - 第42期 (2026-10-12) [HTML](docs/top50-2026-W42.html) · [MD](releases/top50-2026-W42.md)
+- 第43期 (2026-10-19) [HTML](docs/top50-2026-W43.html) · [MD](releases/top50-2026-W43.md)
